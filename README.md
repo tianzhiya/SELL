@@ -5,8 +5,8 @@ Code of  SELL:Low-Light Image Enhancement Guided by Learned Semantic Prior
 Due to file size limitations, our pre-trained model trained on the LOLv2_real dataset can be downloaded here https://drive.google.com/file/d/1p9aCMqj5LWCUGg3JuDQbEIfNCZM361Z3/view?usp=sharing. The test results of the model output have been stored in the ./results/LOLv2_real_model/images/output directory.
 
 ## To Train
-Run "** python main.py**" to train your model.
-The training data are selected from the MSRS dataset. 
+Run "** python train.py**" to train your model.
+The training data are selected from the LOLv2_real dataset. 
 
 ## To Test
 Run "** python test.py**" to test the model.
