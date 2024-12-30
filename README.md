@@ -1,4 +1,4 @@
-# SPDFusion
+# SELL
 Code of  SELL:Low-Light Image Enhancement Guided by Learned Semantic Prior
 
 ## Tips:<br>
